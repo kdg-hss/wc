@@ -1,24 +1,25 @@
-# Wildcard Auto Script
+# Auto Script Wilcard Domain
 
 Script ini digunakan untuk mengotomatisasi konfigurasi wildcard secara cepat di VPS.
-![Preview Script](https://raw.githubusercontent.com/Andyyuda/Wc/main/Andy.jpg)
+![Preview Script](https://raw.githubusercontent.com/kdg-hss/wc/main/julak.jpg)
 ## Instalasi & Eksekusi Otomatis
 
 Jalankan salah satu perintah di bawah ini di VPS Anda:
 
 **Menggunakan `curl`:**
 ```bash
-curl -sLO https://raw.githubusercontent.com/Andyyuda/Wc/main/wildcard_auto.sh && chmod +x wildcard_auto.sh && ./wildcard_auto.sh &
+curl -sLO https://raw.githubusercontent.com/kdg-hss/wc/main/wc.sh && chmod +x wc.sh && ./wc.sh &
 ```
 
 **Menggunakan `wget`:**
 ```bash
-wget -qO- https://raw.githubusercontent.com/Andyyuda/Wc/main/wildcard_auto.sh | bash
+wget -qO- https://raw.githubusercontent.com/kdg-hss/wc/main/wc.sh | bash
 ```
 
 > **Catatan:**  
 > Pastikan Anda mengecek isi skrip sebelum menjalankannya untuk keamanan:
 > ```bash
-> curl -sL https://raw.githubusercontent.com/Andyyuda/Wc/main/wildcard_auto.sh
+> curl -sL https://raw.githubusercontent.com/kdg-hss/wc/main/wc.sh
 > ```
 
+# SEKIAN DAN TERIMA KASIH JER
